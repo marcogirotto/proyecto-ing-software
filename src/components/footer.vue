@@ -17,9 +17,9 @@ name: 'Footer',
 
 <style scoped>
 .footer {
-background-color: yellow;
+background-color: black;
 padding: 1rem;
-color: white;
+color: black;
 position: fixed;
 bottom: 0;
 width: 100%;
